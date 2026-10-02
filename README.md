@@ -11,3 +11,6 @@ This projection demonstrates the deployment of a functional home lab environment
 ## Network Architecture
 * **Domain Controller (DC):** Windows Server 2019 running AD DS, DHCP, and DNS. Contains two network adapters (NAT for external internet access, Internal for the private network).
 * **Client Machine:** Windows 10 Enterprise, joined to the domain, receiving its IP address via the DC's DHCP scope.
+
+## Acknowledgements
+* Lab concept and PowerShell script structure inspired by [Josh Madakor's Active Directory Hands-On Course](https://www.youtube.com/).
