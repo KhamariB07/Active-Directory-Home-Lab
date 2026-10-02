@@ -5,7 +5,7 @@
 
 
 ## Objective
-This projection demonstrates the deployment of a functional home lab environment using **Active Directory Domain Services (AD DS)**. The lab simulates my ability to establish network structure, including virtualized routing, user provisioning, and centralized authentication.
+This project demonstrates the deployment of a functional home lab environment using **Active Directory Domain Services (AD DS)**. The lab simulates my ability to establish network structure, including virtualized routing, user provisioning, and centralized authentication.
 ## Skills & Environments
 * **Operating Systems:** Windows Server 2019, Windows 10
 * **Infrastructure:** Active Directory (AD DS), DNS, DHCP, NAT/Routing
